@@ -11,4 +11,6 @@ Problems:
 5. Course Schedule 2
 6. Find the Town Judge
 7. Keys and Rooms
-8. Redundant Connection
+8. Maximum Level Sum of Binary Tree
+9. Redundant Connection
+10. Validate Binary Tree Nodes

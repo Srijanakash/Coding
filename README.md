@@ -7,5 +7,6 @@ Questions:
 2. Find the City With Smallest Number of Neighbors at a Threshold Distance
 3. Couples holding Hands
 4. Course Schedule
-5. Find the Town Judge
-6. Keys and Rooms
+5. Course Schedule 2
+6. Find the Town Judge
+7. Keys and Rooms

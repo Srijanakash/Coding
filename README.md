@@ -10,31 +10,41 @@ This Repository contains solutions of LeetCode Problems
 5. Binary Tree Level Order Traversal
 6. Binary Tree Level Order Traversal 2
 7. Binary Tree Zigzag Level Order Traversal
-8. Convert Sorted Array to Binary Search Tree
-9. Couples holding Hands
-10. Course Schedule
-11. Course Schedule 2
-12. Display Table of Food Orders in a Restaurant
-13. Find K Pairs with Smallest Sums
-14. Find the City With Smallest Number of Neighbors at a Threshold Distance
-15. Find the Town Judge
-16. Invert Tree
-17. Keys and Rooms
-18. Kth Largest Element in a Stream
-19. Longest Increasing Path in a Matrix
-20. Maximum Depth of Binary Tree
-21. Maximum Level Sum of Binary Tree
-22. Minimum Depth of Binary Tree
-23. Network Delay Time
-24. Number of Islands
-25. Redundant Connection
-26. Rotting Oranges
-27. Same Tree
-28. Sort Characters By Frequency
-29. Super Ugly Number
-30. Symmetric Tree
-31. Top K Frequent Elements
-32. Top K Frequent Words
-33. Ugly Number 2
-34. Unique Binary Search Trees
-35. Validate Binary Tree Nodes
+8. Cells with Odd Values in a Matrix
+9. Convert Sorted Array to Binary Search Tree
+10. Count Negative Numbers in a Sorted Matrix
+11. Couples holding Hands
+12. Course Schedule
+13. Course Schedule 2
+14. Create Target Array in the Given Order
+15. Decompress Run-Length Encoded List
+16. Display Table of Food Orders in a Restaurant
+17. Find K Pairs with Smallest Sums
+18. Find the City With Smallest Number of Neighbors at a Threshold Distance
+19. Find the Town Judge
+20. How Many Numbers Are Smaller Than the Current Number
+21. Invert Tree
+22. K Closest Points to Origin
+23. Keys and Rooms
+24. Kth Largest Element in a Stream
+25. Longest Increasing Path in a Matrix
+26. Maximum Depth of Binary Tree
+27. Maximum Level Sum of Binary Tree
+28. Merge K Sorted Lists
+29. Minimum Depth of Binary Tree
+30. Minimum Time Visiting All Points
+31. Network Delay Time
+32. Number of Islands
+33. Redundant Connection
+34. Reorganize String
+35. Replace Elements with Greatest Element on Right Side
+36. Rotting Oranges
+37. Same Tree
+38. Sort Characters By Frequency
+39. Super Ugly Number
+40. Symmetric Tree
+41. Top K Frequent Elements
+42. Top K Frequent Words
+43. Ugly Number 2
+44. Unique Binary Search Trees
+45. Validate Binary Tree Nodes

@@ -26,52 +26,65 @@ This Repository contains solutions of LeetCode Problems
 21. Decompress Run-Length Encoded List
 22. Display Table of Food Orders in a Restaurant
 23. Distant Barcodes
-24. Find K Pairs with Smallest Sums
-25. Find K-th Smallest Pair Distance
-26. Find Median from Data Stream
-27. Find Numbers with Even Number of Digits
-28. Find the City With Smallest Number of Neighbors at a Threshold Distance
-29. Find the Town Judge
-30. How Many Numbers Are Smaller Than the Current Number
-31. Invert Tree
-32. K Closest Points to Origin
-33. Keys and Rooms
-34. Kth Largest Element in a Stream
-35. Linked List Components
-36. Longest Increasing Path in a Matrix
-37. Max Area of Island
-38. Maximum Depth of Binary Tree
-39. Maximum Depth of N-ary Tree
-40. Maximum Level Sum of Binary Tree
-41. Merge K Sorted Lists
-42. Merge Two Sorted Lists
-43. Minimum Absolute Difference in BST
-44. Minimum Depth of Binary Tree
-45. Minimum Time Visiting All Points
-46. Network Delay Time
-47. Next Greater Node In Linked List
-48. Number of Islands
-49. Parititon List
-50. Range Sum of BST
-51. Redundant Connection
-52. Remove Duplicates
-53. Remove Duplicates from Sorted List 2
-54. Remove Nth Node from End of Linked List
-55. Reorganize String
-56. Replace Elements with Greatest Element on Right Side
-57. Rotate List
-58. Rotting Oranges
-59. Same Tree
-60. Search in a Binary Search Tree
-61. Sort Characters By Frequency
-62. Sum of Left Leaves
-63. Super Ugly Number
-64. Swap Nodes in Pairs
-65. Swim in Rising Water
-66. Symmetric Tree
-67. Top K Frequent Elements
-68. Top K Frequent Words
-69. Ugly Number 2
-70. Unique Binary Search Trees
-71. Univalued Binary Tree
-72. Validate Binary Tree Nodes
+24. Find First and Last Position of Element in Sorted Array
+25. Find K Pairs with Smallest Sums
+26. Find K-th Smallest Pair Distance
+27. Find Median from Data Stream
+28. Find Numbers with Even Number of Digits
+29. Find Pivot Index
+30. Find the City With Smallest Number of Neighbors at a Threshold Distance
+31. Find the Duplicate Number
+32. Find the Town Judge
+33. How Many Numbers Are Smaller Than the Current Number
+34. Invert Tree
+35. K Closest Points to Origin
+36. Keys and Rooms
+37. Kth Largest Element in a Stream
+38. Leftmost Column with at Least a One
+39. Linked List Components
+40. Linked List Random Pointer
+41. Longest Increasing Path in a Matrix
+42. Max Area of Island
+43. Maximum Depth of Binary Tree
+44. Maximum Depth of N-ary Tree
+45. Maximum Level Sum of Binary Tree
+46. Merge K Sorted Lists
+47. Merge Two Sorted Lists
+48. Minimum Absolute Difference in BST
+49. Minimum Cost To Hire K Workers
+50. Minimum Depth of Binary Tree
+51. Minimum Number of K Consecutive Bit Flips
+52. Minimum Time Visiting All Points
+53. Missing Number
+54. Move Zeros
+55. Network Delay Time
+56. Next Greater Node In Linked List
+57. Number of Islands
+58. Parititon List
+59. Product Of Array Except Self
+60. Range Sum of BST
+61. Redundant Connection
+62. Remove Duplicates
+63. Remove Duplicates from Sorted List 2
+64. Remove Elements
+65. Remove Nth Node from End of Linked List
+66. Reorganize String
+67. Replace Elements with Greatest Element on Right Side
+68. Rotate List
+69. Rotting Oranges
+70. Same Tree
+71. Search in a Binary Search Tree
+72. Sort Characters By Frequency
+73. Sum of Left Leaves
+74. Summary Ranges
+75. Super Ugly Number
+76. Swap Nodes in Pairs
+77. Swim in Rising Water
+78. Symmetric Tree
+79. Top K Frequent Elements
+80. Top K Frequent Words
+81. Ugly Number 2
+82. Unique Binary Search Trees
+83. Univalued Binary Tree
+84. Validate Binary Tree Nodes
+85. Word Search 2

@@ -38,15 +38,10 @@ public:
         vector<int>indegree,outdegree;
         indegree.assign(N+1,0);
         outdegree.assign(N+1,0);
-        int l=1,r=trust.size();
-        while(l<r)
+        for(int i=0;i<trust.size();i++)
         {
-            outdegree[trust[l][0]]++;
-            indegree[trust[l][1]]++;
-            outdegree[trust[r][0]]++;
-            indegree[trust[r][1]]++;
-            l++;
-            r--;
+            outdegree[trust[i][0]]++;
+            indegree[trust[i][1]]++;
         }
         for(int i=1;i<=N;i++)
             if(outdegree[i]==0 && indegree[i]==N-1)

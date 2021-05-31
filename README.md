@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LeetCode
 This Repository contains solutions of LeetCode Problems
 
@@ -129,3 +130,7 @@ This Repository contains solutions of LeetCode Problems
 124. Word Search
 125. Word Search 2
 126. Zigzag Level Order Traversal
+=======
+# Coding
+This Repository contains solutions of LeetCode Problems
+>>>>>>> 7f260f8bd8e850d52a7a3ad829593fe3c74f7ae6

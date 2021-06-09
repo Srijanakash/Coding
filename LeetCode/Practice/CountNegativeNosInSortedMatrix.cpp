@@ -21,24 +21,22 @@ Input: grid = [[-1]]
 Output: 1
 */
 
-class Solution 
+class Solution
 {
 public:
-    int countNegatives(vector<vector<int>>& grid) 
+    int countNegatives(vector<vector<int>>& grid)
     {
-        int m=grid.size(),n=grid[0].size();
-        if(m==0)
-            return 0;
-        int count=0;
-        for(int i=m-1;i>=0;i--)
+        int count = 0;
+        int top = 0, left = grid[0].size() - 1;
+        while(top < grid.size() && left >= 0)
         {
-            for(int j=n-1;j>=0;j--)
+            if(grid[top][left] < 0)
             {
-                if(grid[i][j]<0)
-                    count++;
-                else
-                    break;
+                count += grid.size() - top;
+                left --;
+                continue;
             }
+            top++;
         }
         return count;
     }
